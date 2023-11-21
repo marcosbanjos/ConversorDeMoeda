@@ -1,0 +1,11 @@
+C:\Users\Aluno\Desktop\marcosbanjos\moneyConverter\bin\Debug\moneyConverter.exe.config
+C:\Users\Aluno\Desktop\marcosbanjos\moneyConverter\bin\Debug\moneyConverter.exe
+C:\Users\Aluno\Desktop\marcosbanjos\moneyConverter\bin\Debug\moneyConverter.pdb
+C:\Users\Aluno\Desktop\marcosbanjos\moneyConverter\obj\Debug\moneyConverter.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\marcosbanjos\moneyConverter\obj\Debug\moneyConverter.Form1.resources
+C:\Users\Aluno\Desktop\marcosbanjos\moneyConverter\obj\Debug\moneyConverter.MoneyConverter.resources
+C:\Users\Aluno\Desktop\marcosbanjos\moneyConverter\obj\Debug\moneyConverter.Properties.Resources.resources
+C:\Users\Aluno\Desktop\marcosbanjos\moneyConverter\obj\Debug\moneyConverter.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\marcosbanjos\moneyConverter\obj\Debug\moneyConverter.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\marcosbanjos\moneyConverter\obj\Debug\moneyConverter.exe
+C:\Users\Aluno\Desktop\marcosbanjos\moneyConverter\obj\Debug\moneyConverter.pdb
